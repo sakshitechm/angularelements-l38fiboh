@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/sakshitechm.angularelements-l38fiboh",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 9rgvW0ftmsHTIZm09BGF --open"
+  },
+  "dependencies": {
+    "lit-html": "^1"
+  }
+}
